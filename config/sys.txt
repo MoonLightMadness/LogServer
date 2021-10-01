@@ -1,0 +1,28 @@
+
+sys.path = ./config/sys.txt
+
+system.name = zutil
+
+system.normal.log.loglevel = 3
+
+system.normal.log.last = 2021-09-29
+
+system.log.path = C:\Users\Administrator\Desktop\temp\log
+
+mail.account = ******
+
+mail.pwd = ******
+
+mail.smtp = ******
+
+mail.receiver = ******
+
+test.property = 2
+
+db.type = mysql
+
+mysql.path = localhost:3306/game_db
+
+mysql.user = root
+
+mysql.password = root
