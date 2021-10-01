@@ -1,7 +1,7 @@
 
 sys.path = ./config/sys.txt
 
-system.name = zutil
+system.name = LogServer
 
 system.normal.log.loglevel = 3
 
