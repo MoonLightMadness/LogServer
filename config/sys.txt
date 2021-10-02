@@ -3,9 +3,15 @@ sys.path = ./config/sys.txt
 
 system.name = LogServer
 
+logServer.enabled = false
+
+LogServer.ip = 127.0.0.1
+
+LogServer.port = 10015
+
 system.normal.log.loglevel = 3
 
-system.normal.log.last = 2021-09-29
+system.normal.log.last = 2021-10-02
 
 system.log.path = C:\Users\Administrator\Desktop\temp\log
 
@@ -26,3 +32,5 @@ mysql.path = localhost:3306/game_db
 mysql.user = root
 
 mysql.password = root
+
+package.find = app.log.server.controller
