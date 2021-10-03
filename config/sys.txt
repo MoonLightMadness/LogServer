@@ -11,7 +11,7 @@ LogServer.port = 10015
 
 system.normal.log.loglevel = 3
 
-system.normal.log.last = 2021-10-02
+system.normal.log.last = 2021-10-04
 
 system.log.path = C:\Users\Administrator\Desktop\temp\log
 
@@ -34,3 +34,5 @@ mysql.user = root
 mysql.password = root
 
 package.find = app.log.server.controller
+
+bean.scan = app

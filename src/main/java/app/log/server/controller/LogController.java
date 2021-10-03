@@ -5,9 +5,11 @@ import app.log.Log;
 import app.log.server.service.LogServerService;
 import app.log.server.service.impl.LogServerServiceImpl;
 import app.log.server.vo.ReceiveLogReqVO;
+import app.reflect.annotation.Fill;
 import app.reflect.annotation.Path;
 import app.system.Core;
 
+@Fill
 @Path("/log")
 public class LogController {
 
